@@ -22,7 +22,7 @@ Aprender Linux desde o básico até o nível avançado, com prática em:
 
 - Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas (4º Semestre, previsão de términio Novembro de 2026);
 - Pretensão de cursar pós-graduação em Cibersegurança;
-- Estudando para a certificação CompTIA Security+
+- Estudando para a certificação CompTIA Security+.
  
 ## Status
 
