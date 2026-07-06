@@ -14,6 +14,6 @@
 - cp (copia arquivos);
 - mv (move arquivos).
 
-  Praticando
+  ## Praticando
 - Usei esse comandos no terminal do Ubuntu para criar e organizar arquivos.
 
